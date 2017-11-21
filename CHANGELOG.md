@@ -2,6 +2,7 @@
 
 ## WIP
 
+- Add support for Arq 5 (via @lavir)
 - Add support for iTerm (via @Sbastien)
 - Add support for Boxer (via @icopp)
 
